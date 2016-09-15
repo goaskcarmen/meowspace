@@ -1,0 +1,59 @@
+/* profile stylesheet */
+/* Wave 3 */
+
+header, footer {
+  border: black 1px solid;
+  padding-bottom: 3rem;
+  background-color: LightSalmon;
+}
+
+ul{
+  position: absolute;
+  right: 0;
+  margin-right: 50px;
+}
+
+li{
+  display: inline-block;
+  background-color: yellow;
+  margin-left: 30px;
+}
+
+section{
+  border: 1px black solid;
+  background-color: AliceBlue;
+}
+
+
+article{
+  display: inline-block;
+  border: 1px black solid;
+  background-color: SkyBlue;
+  margin-left: 4px;
+  margin-bottom: 1rem;
+  width: 30%;
+  text-align: center;
+}
+
+.catname{
+  text-align: center;
+}
+
+.catimg{
+  border-radius: 50%;
+  margin-left: 1rem;
+  display: inline-block;
+  align-items: flex-end;
+  margin-bottom: -2.5rem;
+}
+
+.memberwrap{
+  border: 1px black solid;
+  text-align: left;
+}
+
+.member{
+  display: inline-block;
+  margin-bottom: 0;
+  margin-left: 20rem;
+}
