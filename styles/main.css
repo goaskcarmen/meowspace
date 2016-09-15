@@ -1,0 +1,53 @@
+/* main stylesheet */
+/* Wave 1 */
+header, footer {
+  border: black 1px solid;
+  padding-bottom: 3rem;
+  background-color: LightSalmon;
+}
+
+ul{
+  position: absolute;
+  right: 0;
+  margin-right: 50px;
+}
+
+li{
+  display: inline-block;
+  background-color: yellow;
+  margin-left: 30px;
+}
+
+article{
+  border: 2px black solid;
+  background-color: aliceblue;
+  margin: 1rem;
+}
+
+div{
+  display: inline-block;
+  width: 70%;
+}
+
+aside#top-cats{
+  display: inline-block;
+  border: 1px black solid;
+  position: absolute;
+  margin-top: 1rem;
+  background-color: PaleGoldenRod;
+}
+
+#top-cats section{
+  border: 1px black solid;
+}
+
+#disclaimer{
+  width: 60%;
+}
+
+/*footer{
+  border: 1px solid black;
+  background-color: LightSalmon;
+  margin-top: 1rem;
+  padding-bottom: 3rem;
+}*/
