@@ -1,0 +1,53 @@
+/* headerfooter stylesheet */
+/* refactor */
+
+header, footer {
+  border: black 1px solid;
+  background-color: LightSalmon;
+}
+
+ul{
+  position: absolute;
+  right: 0;
+  margin-right: 50px;
+  margin-top: -2.5rem;
+}
+
+li{
+  display: inline-block;
+  background-color: yellow;
+  margin-left: 30px;
+  border: 1px solid black;
+  border-radius: 30%;
+  padding: 10px;
+}
+
+.headername{
+  display: inline-block;
+  width: 70%;
+  font-size: 2rem;
+  margin-left: 1rem;
+}
+
+.headername a{
+  text-decoration: none;
+  color: white;
+}
+
+.headerlinks{
+  display: inline-block;
+  font-size: 1.5rem;
+}
+
+#copyright{
+  display: inline-block;
+  width: 15%;
+  margin-left: 2px;
+  font-size: 1.25rem;
+}
+#disclaimer{
+  display: inline-block;
+  width: 60%;
+  font-size: 0.85rem;
+  margin-left: 1.5rem;
+}

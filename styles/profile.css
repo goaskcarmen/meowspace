@@ -1,24 +1,6 @@
 /* profile stylesheet */
 /* Wave 3 */
 
-header, footer {
-  border: black 1px solid;
-  padding-bottom: 3rem;
-  background-color: LightSalmon;
-}
-
-ul{
-  position: absolute;
-  right: 0;
-  margin-right: 50px;
-}
-
-li{
-  display: inline-block;
-  background-color: yellow;
-  margin-left: 30px;
-}
-
 section{
   border: 1px black solid;
   background-color: AliceBlue;
